@@ -115,6 +115,9 @@ aware that there are some limitation on the free API Key.
 
 This is an open-source project funded by a grant powered by the Solana Foundation:https://earn.superteam.fun/grants/solana-foundation-romania-grants/references/
  If you find bugs or want to suggest improvements, please contribute to the repository as your input helps strengthen this tool for the entire community.
+ If you'd like to contribute or discuss security insights, feel free to connect with me:  
+📌 **[You can find me here:](https://gabidumitriu.ro)**  
+
 
 ## Support
 
